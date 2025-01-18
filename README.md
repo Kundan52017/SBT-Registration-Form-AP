@@ -94,3 +94,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Feel free to contribute, report issues, or suggest enhancements to improve the functionality of this application.
+![image](https://github.com/user-attachments/assets/364b5979-15b1-453f-a2a8-7bdf40aee125)
+
