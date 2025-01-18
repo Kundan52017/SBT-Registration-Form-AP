@@ -32,11 +32,14 @@ To set up and run the project, ensure you have the following installed:
 2. **Configure the Database**:
    - Update the `application.properties` file with your database details.
      ```properties
-     spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
-     spring.datasource.username=your_username
-     spring.datasource.password=your_password
-     spring.jpa.hibernate.ddl-auto=update
-     ```
+    spring.application.name=SBT-Registration-Form-AP
+    server.port=8092
+    spring.data.mongodb.uri=mongodb://localhost:27017/SBT-Registration-Form-AP
+    logging.level.org.springframework.web=DEBUG
+    spring.thymeleaf.enabled=true
+    spring.thymeleaf.prefix=classpath:/templates/
+    spring.thymeleaf.suffix=.html
+    spring.thymeleaf.mode=HTML
 
 3. **Build the Project**:
    ```bash
