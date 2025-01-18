@@ -95,4 +95,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Feel free to contribute, report issues, or suggest enhancements to improve the functionality of this application.
 ![image](https://github.com/user-attachments/assets/364b5979-15b1-453f-a2a8-7bdf40aee125)
+![image](https://github.com/user-attachments/assets/40898fea-1394-4ec4-beb9-bffd07ba52de)
+![image](https://github.com/user-attachments/assets/f0dad7e5-3c24-42e2-8719-e1d48fac08c2)
+![image](https://github.com/user-attachments/assets/11859414-6f39-4e73-9bbd-c29a21dda6f8)
+
+
+
 
